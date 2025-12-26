@@ -1,1 +1,10 @@
-# Ai_Math
+這是ai數學解題機器人
+
+透過STT語音轉文字
+透過LLM將答案輸出
+透過TTS文字轉語言
+
+我們的MCP服務是利用WolframeAlpha將答案結果輸出給lemme
+
+STT是Whisper
+TTS是edge-tts
